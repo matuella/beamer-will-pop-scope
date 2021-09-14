@@ -1,0 +1,1 @@
+# beamer-will-pop-scope
